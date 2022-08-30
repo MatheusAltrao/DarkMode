@@ -33,7 +33,7 @@ h1 {
   background-color: #e6ddfd;
   border-bottom: 1px solid rgba(0, 0, 0, 0.233);
 
-  width: 500px;
+  width: 90%;
   padding: 0.5rem 0.5rem;
 
   border-top-left-radius: 4px;
@@ -51,7 +51,7 @@ p {
   margin-bottom: 2rem;
 
   padding: 1.5rem 0.5rem;
-  width: 500px;
+  width: 90%;
 }
 
 .text {
