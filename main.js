@@ -8,7 +8,7 @@ function darkmode() {
 
   list = [body, button, h1, text, social, link]
 
-  list.map(function (element) {
-    element.classList.toggle('darkmode')
+  list.map(e => {
+    e.classList.toggle('darkmode')
   })
 }
